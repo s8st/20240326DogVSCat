@@ -10,4 +10,6 @@ https://s8st.github.io/20240326DogVSCat/
 ![image](https://github.com/s8st/20240326DogVSCat/assets/153998744/4807eb49-10e5-477b-8bec-53525745dd45)  
 
 
-(docs/index.html)
+https://s8st.github.io/20240326DogVSCat/docs/index.html  
+
+docs/index.html
